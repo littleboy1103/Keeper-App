@@ -22,13 +22,7 @@ header {
 header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
-  font-size: xx-large;
-}
-header span {
-  color: rgb(12, 12, 12);
-  font-family: "McLaren", cursive;
-  font-size: small;
-
+  font-weight: 200;
 }
 
 footer {
