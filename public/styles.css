@@ -22,8 +22,14 @@ header {
 header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
-  font-weight: 200;
+  font-size: xx-large;
 }
+header sub {
+  color: rgb(10, 10, 10);
+  font-family: "McLaren", cursive;
+  font-size: small;
+}
+
 
 footer {
   position: absolute;

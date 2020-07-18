@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        Keeper
+        Keeper   <sub>By Gowtham.c</sub>
       </h1>
     </header>
   );
